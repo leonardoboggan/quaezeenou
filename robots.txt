@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dieziefuef.duqiaoli.com/sitemap.xml
